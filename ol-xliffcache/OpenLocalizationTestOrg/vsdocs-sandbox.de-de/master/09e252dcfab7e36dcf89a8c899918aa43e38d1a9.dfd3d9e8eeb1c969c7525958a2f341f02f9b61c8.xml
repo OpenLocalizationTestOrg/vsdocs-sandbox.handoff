@@ -1,0 +1,1 @@
+{"content":"name: hello\nsummary: world\nremarks: yes\n","nodes":[{"content":"world","nodes":[{"pos":[0,5],"content":"world","nodes":[{"content":"world","pos":[0,5]}]}],"path":["summary"],"nosxs":false},{"content":"yes","nodes":[{"pos":[0,3],"content":"yes","nodes":[{"content":"yes","pos":[0,3]}]}],"path":["remarks"],"extradata":"MT","nosxs":false}],"header":null,"yml":true}
